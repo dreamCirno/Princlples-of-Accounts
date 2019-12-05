@@ -21,13 +21,13 @@
 > 
 > 随机习题：试卷试题随机抽取，答题者考试试题不同。
 
-### 后续支持
+## 后续支持
 
 > 待所有章节的分支习题更新完毕。会另外整理一份考卷，从每个章节中抽取适当的题目，组成**客观题考试模拟试卷**。
 > 
 > 有任何问题请在 **[Issues](https://github.com/dreamCirno/Princlples-of-Accounts/issues)** 里提出。
 
-### 录入
+## 录入
 
 * Chapter 1：Ti Amo、dreamCirno
 * Chapter 2：Ti Amo、dreamCirno
