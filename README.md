@@ -6,6 +6,8 @@
 ### [会计学原理 - 第1章绪论（随机习题）](http://saishi.cnki.net/ddz/9oqtudtgu5)
 ### [会计学原理 - 第2章会计科目与会计账户（固定习题）](http://saishi.cnki.net/ddz/kaxmcifxbc)
 ### [会计学原理 - 第2章会计科目与会计账户（随机习题）](http://saishi.cnki.net/ddz/nja28eDd3H)
+### [会计学原理 - 第3章复式记账法（固定习题）](http://saishi.cnki.net/ddz/GVXrfEYeML)
+### [会计学原理 - 第3章复式记账法（随机习题）](http://saishi.cnki.net/ddz/Q6IcBSlBhv)
 
 ## 说明
 
@@ -25,7 +27,7 @@
 
 * Chapter 1：Ti Amo、dreamCirno
 * Chapter 2：Ti Amo、dreamCirno
-* Chapter 3：Ti Amo、dreamCirno
+* Chapter 3：dreamCirno
 * Chapter 4：Key、dreamCirno
 * Chapter 5：Key
 * Chapter 6：CN、夏
