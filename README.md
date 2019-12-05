@@ -2,12 +2,14 @@
 
 ## 习题链接
 
-### [会计学原理 - 第1章绪论（固定习题）](http://saishi.cnki.net/ddz/h6wWHz1cLt)
-### [会计学原理 - 第1章绪论（随机习题）](http://saishi.cnki.net/ddz/9oqtudtgu5)
-### [会计学原理 - 第2章会计科目与会计账户（固定习题）](http://saishi.cnki.net/ddz/kaxmcifxbc)
-### [会计学原理 - 第2章会计科目与会计账户（随机习题）](http://saishi.cnki.net/ddz/nja28eDd3H)
-### [会计学原理 - 第3章复式记账法（固定习题）](http://saishi.cnki.net/ddz/GVXrfEYeML)
-### [会计学原理 - 第3章复式记账法（随机习题）](http://saishi.cnki.net/ddz/Q6IcBSlBhv)
+### [第1章【绪论】（固定习题）](http://saishi.cnki.net/ddz/h6wWHz1cLt)
+### [第1章【绪论】（随机习题）](http://saishi.cnki.net/ddz/9oqtudtgu5)
+### [第2章【会计科目与会计账户】（固定习题）](http://saishi.cnki.net/ddz/kaxmcifxbc)
+### [第2章【会计科目与会计账户】（随机习题）](http://saishi.cnki.net/ddz/nja28eDd3H)
+### [第3章【复式记账法】（固定习题）](http://saishi.cnki.net/ddz/GVXrfEYeML)
+### [第3章【复式记账法】（随机习题）](http://saishi.cnki.net/ddz/Q6IcBSlBhv)
+### [第4章【借贷记账法在制造业的应用】（固定习题）](http://saishi.cnki.net/ddz/tguiqrsxlp)
+### [第4章【借贷记账法在制造业的应用】（随机习题）](http://saishi.cnki.net/ddz/soEc0pWAP1)
 
 ## 说明
 
