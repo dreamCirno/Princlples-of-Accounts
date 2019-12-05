@@ -14,6 +14,8 @@
 ### [第5章【会计凭证】（随机习题）](http://saishi.cnki.net/ddz/0SWOlssJLo)
 ### [第6章【会计账簿】（固定习题）](http://saishi.cnki.net/ddz/v084tqyxlg)
 ### [第6章【会计账簿】（随机习题）](http://saishi.cnki.net/ddz/7chbnrutil)
+### [第7章【账务处理程序】（固定习题）](http://saishi.cnki.net/ddz/6Tej4uPWQ3)
+### [第7章【账务处理程序】（随机习题）](http://saishi.cnki.net/ddz/QXhREpg6LD)
 
 ## 说明
 
