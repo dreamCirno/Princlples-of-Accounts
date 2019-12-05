@@ -10,6 +10,8 @@
 ### [第3章【复式记账法】（随机习题）](http://saishi.cnki.net/ddz/Q6IcBSlBhv)
 ### [第4章【借贷记账法在制造业的应用】（固定习题）](http://saishi.cnki.net/ddz/tguiqrsxlp)
 ### [第4章【借贷记账法在制造业的应用】（随机习题）](http://saishi.cnki.net/ddz/soEc0pWAP1)
+### [第5章【会计凭证】（固定习题）](http://saishi.cnki.net/ddz/skuww2h5k5)
+### [第5章【会计凭证】（随机习题）](http://saishi.cnki.net/ddz/0SWOlssJLo)
 
 ## 说明
 
