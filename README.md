@@ -4,7 +4,7 @@
 
 ### [第1章【绪论】（固定习题）](http://saishi.cnki.net/ddz/h6wWHz1cLt)
 ### [第1章【绪论】（随机习题）](http://saishi.cnki.net/ddz/9oqtudtgu5)
-### [第2章【会计科目与会计账户】（固定习题）](http://saishi.cnki.net/ddz/kaxmcifxbc)
+### [第2章【会计科目与会计账户】（固定习题）](http://saishi.6nki.net/ddz/kaxmcifxbc)
 ### [第2章【会计科目与会计账户】（随机习题）](http://saishi.cnki.net/ddz/nja28eDd3H)
 ### [第3章【复式记账法】（固定习题）](http://saishi.cnki.net/ddz/GVXrfEYeML)
 ### [第3章【复式记账法】（随机习题）](http://saishi.cnki.net/ddz/Q6IcBSlBhv)
@@ -12,6 +12,8 @@
 ### [第4章【借贷记账法在制造业的应用】（随机习题）](http://saishi.cnki.net/ddz/soEc0pWAP1)
 ### [第5章【会计凭证】（固定习题）](http://saishi.cnki.net/ddz/skuww2h5k5)
 ### [第5章【会计凭证】（随机习题）](http://saishi.cnki.net/ddz/0SWOlssJLo)
+### [第6章【会计账簿】（固定习题）](http://saishi.cnki.net/ddz/v084tqyxlg)
+### [第6章【会计账簿】（随机习题）](http://saishi.cnki.net/ddz/7chbnrutil)
 
 ## 说明
 
