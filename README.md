@@ -4,7 +4,7 @@
 
 ### [第1章【绪论】（固定习题）](http://saishi.cnki.net/ddz/h6wWHz1cLt)
 ### [第1章【绪论】（随机习题）](http://saishi.cnki.net/ddz/9oqtudtgu5)
-### [第2章【会计科目与会计账户】（固定习题）](http://saishi.6nki.net/ddz/kaxmcifxbc)
+### [第2章【会计科目与会计账户】（固定习题）](http://saishi.cnki.net/ddz/kaxmcifxbl)
 ### [第2章【会计科目与会计账户】（随机习题）](http://saishi.cnki.net/ddz/nja28eDd3H)
 ### [第3章【复式记账法】（固定习题）](http://saishi.cnki.net/ddz/GVXrfEYeML)
 ### [第3章【复式记账法】（随机习题）](http://saishi.cnki.net/ddz/Q6IcBSlBhv)
