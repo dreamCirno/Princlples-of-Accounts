@@ -1,5 +1,8 @@
 # 会计学原理试卷仓库
 
+## 公告
+### [第1章【绪论】] 反馈的问题已解决，如有错误，请在**[Issues](https://github.com/dreamCirno/Princlples-of-Accounts/issues)** 里提出
+
 ## 习题链接
 
 ### [第1章【绪论】（固定习题）](http://saishi.cnki.net/ddz/h6wWHz1cLt)
