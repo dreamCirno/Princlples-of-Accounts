@@ -1,9 +1,6 @@
 # 会计学原理试卷仓库
 
 ## 公告
-### 第1章【绪论】 反馈的问题已解决
-### 第2章【会计科目与会计账户】 反馈的问题已解决
-### 第5章【会计凭证】 反馈的问题已解决
 ### 如有错误，请在[Issues](https://github.com/dreamCirno/Princlples-of-Accounts/issues) 里提出
 
 ## 习题链接
@@ -22,6 +19,8 @@
 ### [第6章【会计账簿】（随机习题）](http://saishi.cnki.net/ddz/7chbnrutil)
 ### [第7章【账务处理程序】（固定习题）](http://saishi.cnki.net/ddz/6Tej4uPWQ3)
 ### [第7章【账务处理程序】（随机习题）](http://saishi.cnki.net/ddz/QXhREpg6LD)
+### [第8章【财产清查】（固定习题）](http://saishi.cnki.net/ddz/BWLDY2GC4Q)
+### [第8章【财产清查】（随机习题）](http://saishi.cnki.net/ddz/nsv3yqo5fj)
 
 ## 说明
 
@@ -37,6 +36,12 @@
 > 
 > 有任何问题请在 **[Issues](https://github.com/dreamCirno/Princlples-of-Accounts/issues)** 里提出。
 
+## 更新日志（从新到旧）
+### 新增 第8章【财产清查】
+### 第5章【会计凭证】 反馈的问题已解决
+### 第2章【会计科目与会计账户】 反馈的问题已解决
+### 第1章【绪论】 反馈的问题已解决
+
 ## 录入
 
 * Chapter 1：Ti Amo、dreamCirno
@@ -46,3 +51,4 @@
 * Chapter 5：Key
 * Chapter 6：CN、夏
 * Chapter 7：dreamCirno
+* Chapter 8：开心麻瓜
