@@ -3,6 +3,7 @@
 ## 公告
 ### 第1章【绪论】 反馈的问题已解决
 ### 第2章【会计科目与会计账户】 反馈的问题已解决
+### 第5章【会计凭证】 反馈的问题已解决
 ### 如有错误，请在[Issues](https://github.com/dreamCirno/Princlples-of-Accounts/issues) 里提出
 
 ## 习题链接
